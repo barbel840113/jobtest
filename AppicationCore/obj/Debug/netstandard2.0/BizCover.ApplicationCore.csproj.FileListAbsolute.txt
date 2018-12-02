@@ -1,0 +1,9 @@
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\bin\Debug\netstandard2.0\BizCover.ApplicationCore.deps.json
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\bin\Debug\netstandard2.0\BizCover.ApplicationCore.dll
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\obj\Debug\netstandard2.0\BizCover.ApplicationCore.csprojAssemblyReference.cache
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\obj\Debug\netstandard2.0\BizCover.ApplicationCore.csproj.CoreCompileInputs.cache
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\obj\Debug\netstandard2.0\BizCover.ApplicationCore.AssemblyInfoInputs.cache
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\obj\Debug\netstandard2.0\BizCover.ApplicationCore.AssemblyInfo.cs
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\bin\Debug\netstandard2.0\BizCover.ApplicationCore.pdb
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\obj\Debug\netstandard2.0\BizCover.ApplicationCore.dll
+B:\job\BizCover.TechnicalTest.v1\AppicationCore\obj\Debug\netstandard2.0\BizCover.ApplicationCore.pdb

@@ -1,0 +1,12 @@
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\bin\Debug\netstandard2.0\BizCover.Repository.Cars.deps.json
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\bin\Debug\netstandard2.0\BizCover.Repository.Cars.dll
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\bin\Debug\netstandard2.0\BizCover.Repository.Cars.pdb
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\obj\Debug\netstandard2.0\BizCover.Repository.Cars.csproj.CoreCompileInputs.cache
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\obj\Debug\netstandard2.0\BizCover.Repository.Cars.AssemblyInfoInputs.cache
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\obj\Debug\netstandard2.0\BizCover.Repository.Cars.AssemblyInfo.cs
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\obj\Debug\netstandard2.0\BizCover.Repository.Cars.dll
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\obj\Debug\netstandard2.0\BizCover.Repository.Cars.pdb
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\bin\Debug\netstandard2.0\BizCover.ApplicationCore.dll
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\bin\Debug\netstandard2.0\BizCover.ApplicationCore.pdb
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\obj\Debug\netstandard2.0\BizCover.Repository.Cars.csprojAssemblyReference.cache
+B:\job\BizCover.TechnicalTest.v1\BizCover.Repository.Cars\obj\Debug\netstandard2.0\BizCover.Repository.Cars.csproj.CopyComplete

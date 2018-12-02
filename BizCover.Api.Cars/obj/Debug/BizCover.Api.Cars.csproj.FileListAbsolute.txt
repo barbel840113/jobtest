@@ -1,0 +1,1 @@
+B:\job\BizCover.TechnicalTest.v1\BizCover.Api.Cars\obj\Debug\BizCover.Api.Cars.csproj.CoreCompileInputs.cache
