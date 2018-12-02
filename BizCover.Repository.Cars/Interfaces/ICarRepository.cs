@@ -14,5 +14,7 @@ namespace BizCover.Repository.Cars.Interfaces
         Task Update(Car car);
 
         Task<int> Add(Car newCar);
+
+        Task<double> CalculateDiscount(List<Car> cars);
     }
 }
